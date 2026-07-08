@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, Am MUnezero olivier Douglas
 
-<!--
-**douglasolivier/douglasolivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about technology, Artificial Intelligence, and entrepreneurship.<br/>
+ Building innovative projects including Sophia.ai, AI-powered solutions, telemedicine systems, and business platforms.<br/>
 
-Here are some ideas to get you started:
+Studying Software Engineering at Adventist University of Central Africa (AUCA), Rwanda.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certified in Backend Development through FreeCodeCamp and continuously improving my skills in React, JavaScript, Node.js, PostgreSQL, and Artificial Intelligence.<br/>
+
+ Currently learning Linux through Cisco Networking Academy and Machine Learning through FreeCodeCamp.<br/>
+
+Interested in solving African challenges through technology and building impactful startups that create positive change across the continent.<br/>
+Portfolio & Deployments:** https://vercel.com/munezero-olivier-douglas-s-projects
