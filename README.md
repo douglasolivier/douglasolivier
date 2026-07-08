@@ -6,7 +6,7 @@ Learning Linux, Machine Learning, <br/>
 Passionate about using technology to solve African challenges<br/>
 <!-- GitHub Stats -->
 
-<h1 align="center">Hi 👋, I'm Douglas Olivier</h1>
+<h1 align="center">Hi 👋, I'm Munezero  Olivier Douglas</h1>
 
 <h3 align="center">
 Software Engineering Student | AI Enthusiast | Entrepreneur | Builder
@@ -34,7 +34,7 @@ Software Engineering Student | AI Enthusiast | Entrepreneur | Builder
 
 - 💼 Vercel: https://vercel.com/munezero-olivier-douglas-s-projects
 - 💻 GitHub: https://github.com/douglasolivier
-- 📧 Email: ngogafred9@gmail.com
+- 📧 Email: douglasolivier1234@gmail.com
 
 ---
 
