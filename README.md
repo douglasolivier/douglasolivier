@@ -15,18 +15,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:8A2BE2,75:00C9FF,100:00F260&height=4" />
 
-## 🚀 &nbsp;About Me
+ &nbsp;About Me
 
 Software Engineering student passionate about technology, Artificial Intelligence, and entrepreneurship.<br/>
 Building innovative projects including **Sophia.ai**, AI-powered solutions, telemedicine systems, and business platforms.<br/>
 Studying Software Engineering at **Adventist University of Central Africa (AUCA), Rwanda**.<br/>
 Certified in Backend Development through **FreeCodeCamp** and continuously improving my skills in **React, JavaScript, Node.js, PostgreSQL, and Artificial Intelligence**.<br/>
-🐧 Currently learning **Linux** through Cisco Networking Academy and **Machine Learning** through FreeCodeCamp.<br/>
+ Currently learning **Linux** through Cisco Networking Academy and **Machine Learning** through FreeCodeCamp.<br/>
 Interested in solving African challenges through technology and building impactful startups that create positive change across the continent.<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,25:00C9FF,50:8A2BE2,75:F09819,100:FF512F&height=4" />
 
-## 📚 &nbsp;Currently Learning / Willing to Study
+##  &nbsp;Currently Learning / Willing to Study
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -38,7 +38,7 @@ Interested in solving African challenges through technology and building impactf
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:8A2BE2,75:00C9FF,100:00F260&height=4" />
 
-## 🧠 &nbsp;Languages & Technologies I've Learned
+##  &nbsp;Languages & Technologies I've Learned
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Interested in solving African challenges through technology and building impactf
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,25:00C9FF,50:8A2BE2,75:F09819,100:FF512F&height=4" />
 
-## 🛠️ &nbsp;Tech Stack
+##  &nbsp;Tech Stack
 
 **Languages**
 
@@ -100,7 +100,7 @@ Interested in solving African challenges through technology and building impactf
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,25:00C9FF,50:8A2BE2,75:F09819,100:FF512F&height=4" />
 
-## 📊 &nbsp;GitHub Analytics
+##  &nbsp;GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=douglasolivier&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -121,7 +121,7 @@ Interested in solving African challenges through technology and building impactf
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:8A2BE2,75:00C9FF,100:00F260&height=4" />
 
-## 🚀 &nbsp;Featured Projects
+##  &nbsp;Featured Projects
 
 ### 🐍 Python
 
@@ -159,11 +159,11 @@ Interested in solving African challenges through technology and building impactf
 
 ## 🎯 &nbsp;2026 Goals
 
-- 🚀 Launch Sophia.ai publicly
-- ⚛️ Go deeper into React & Node.js full-stack development
-- 🤖 Complete Machine Learning path on FreeCodeCamp
-- 🐧 Finish Linux certification through Cisco Networking Academy
-- 🌍 Build impactful African startups powered by AI
+-  Launch Sophia.ai publicly
+-  Go deeper into React & Node.js full-stack development
+- Complete Machine Learning path on FreeCodeCamp
+- Finish Linux certification through Cisco Networking Academy
+  - Build impactful African startups powered by AI
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:8A2BE2,75:00C9FF,100:00F260&height=4" />
 
@@ -175,7 +175,7 @@ Interested in solving African challenges through technology and building impactf
 <a href="https://github.com/douglasolivier"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:douglasolivier1234@gmail.com"><img src="https://img.shields.io/badge/Email-00C9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<i>⭐️ From <a href="https://github.com/douglasolivier">douglasolivier</a> — building with purpose, one commit at a time.</i>
+<i> From <a href="https://github.com/douglasolivier">douglasolivier</a> — building with purpose, one commit at a time.</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,25:00C9FF,50:8A2BE2,75:F09819,100:FF512F&height=120&section=footer" />
 
