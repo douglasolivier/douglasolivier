@@ -123,41 +123,41 @@ Interested in solving African challenges through technology and building impactf
 
 ##  &nbsp;Featured Projects
 
-### 🐍 Python
+###  Python
 
 <table>
 <tr><th>Project</th><th>Description</th></tr>
-<tr><td>📋 <a href="https://github.com/douglasolivier/cong-attendence-system">cong-attendence-system</a></td><td>Attendance tracking and reporting system built with Python</td></tr>
+<tr><td> <a href="https://github.com/douglasolivier/cong-attendence-system">cong-attendence-system</a></td><td>Attendance tracking and reporting system built with Python</td></tr>
 </table>
 
-### 🟨 JavaScript
+###  JavaScript
 
 <table>
 <tr><th>Project</th><th>Description</th></tr>
-<tr><td>🤖 <a href="https://github.com/douglasolivier/sophia-ai-platform">sophia-ai-platform</a></td><td>AI research assistant platform for the Rwandan market with local payment integration</td></tr>
-<tr><td>🛒 <a href="https://github.com/douglasolivier/SHORA-MALL">SHORA-MALL</a></td><td>E-commerce marketplace letting traders expose products directly to customers</td></tr>
+<tr><td> <a href="https://github.com/douglasolivier/sophia-ai-platform">sophia-ai-platform</a></td><td>AI research assistant platform for the Rwandan market with local payment integration</td></tr>
+<tr><td> <a href="https://github.com/douglasolivier/SHORA-MALL">SHORA-MALL</a></td><td>E-commerce marketplace letting traders expose products directly to customers</td></tr>
 </table>
 
-### 🐘 PostgreSQL
+###  PostgreSQL
 
 <table>
 <tr><th>Project</th><th>Description</th></tr>
 <tr><td>🤖 <a href="https://github.com/douglasolivier/sophia-ai-platform">sophia-ai-platform</a></td><td>Backend data layer powering Sophia.ai's research and payment features</td></tr>
 </table>
 
-### 🌐 HTML & CSS
+###  HTML & CSS
 
 <table>
 <tr><th>Project</th><th>Description</th></tr>
-<tr><td>🏢 <a href="https://github.com/douglasolivier/Mj-properties">Mj-properties</a></td><td>Real estate listing platform</td></tr>
-<tr><td>🍽️ <a href="https://github.com/douglasolivier/Freedom-restaurant">Freedom-restaurant</a></td><td>Restaurant ordering and showcase website</td></tr>
+<tr><td> <a href="https://github.com/douglasolivier/Mj-properties">Mj-properties</a></td><td>Real estate listing platform</td></tr>
+<tr><td> <a href="https://github.com/douglasolivier/Freedom-restaurant">Freedom-restaurant</a></td><td>Restaurant ordering and showcase website</td></tr>
 </table>
 
-<p align="center">📁 More projects and live demos: <b><a href="https://vercel.com/munezero-olivier-douglas-s-projects">vercel.com/munezero-olivier-douglas-s-projects</a></b></p>
+<p align="center"> More projects and live demos: <b><a href="https://vercel.com/munezero-olivier-douglas-s-projects">vercel.com/munezero-olivier-douglas-s-projects</a></b></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,25:00C9FF,50:8A2BE2,75:F09819,100:FF512F&height=4" />
 
-## 🎯 &nbsp;2026 Goals
+##  &nbsp;2026 Goals
 
 -  Launch Sophia.ai publicly
 -  Go deeper into React & Node.js full-stack development
@@ -169,7 +169,7 @@ Interested in solving African challenges through technology and building impactf
 
 <div align="center">
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <a href="https://vercel.com/munezero-olivier-douglas-s-projects"><img src="https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/douglasolivier"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
